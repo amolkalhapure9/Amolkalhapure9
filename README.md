@@ -9,7 +9,7 @@
 <h3 >📊GitHub Stats :</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amolkalhapure76&show_icons=true&locale=en" alt="amolkalhapure76" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amolkalhapure6&show_icons=true&locale=en&layout=compact" alt="amolkalhapure76" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amolkalhapure76&show_icons=true&locale=en&layout=compact" alt="amolkalhapure76" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amolkalhapure76&" alt="amolkalhapure76" /></p>
 <hr>
