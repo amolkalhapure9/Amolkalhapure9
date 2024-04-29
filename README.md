@@ -1,5 +1,5 @@
 <link src="style.css">
-<h1 align="center">Hi 👋, I'm Amol Kalhapure</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 <h5 align="center">A passionate programmer.</h5>
 <p>- 👨‍💻 I'm currently studying Information Technology engineering at MCOE, Pune</p>
 <p>- 📫 Reach me at <a href="gmail.com">amolkalhapure99@gmail.com</a></p>
